@@ -1,4 +1,4 @@
-# 🚀 SmartVisionSearch-YOLO11
+# YOLO11-SmartVisionSearch
 SmartVisionSearch-YOLO11 is a computer vision search engine that leverages YOLO11 for real-time object detection and **Streamlit** for an interactive web interface. Upload an image, instantly identify objects from the **COCO dataset (80 classes)**, and view bounding boxes with predictions in real time.
 
 # 📘 1. Project Title
